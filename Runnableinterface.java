@@ -1,7 +1,7 @@
 class Processor implements Runnable {
 	public void run()
 	{
-		System.out.println("Hello All");
+		System.out.println("Hello India");
 	}
 }
 
